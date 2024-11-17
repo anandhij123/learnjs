@@ -1,2 +1,2 @@
 # learnjs
-Learn Javascript  Repo to track all Javascript
+Learn Javascript  Repo to track all Javascript practices
