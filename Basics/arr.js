@@ -1,0 +1,13 @@
+let house = [];
+let house1 = new Array();
+let numArray = [10, 20, 30];
+let numArray1 = [50, 60, 70];
+numArray.push(60);
+console.log(numArray);
+console.log(numArray.concat(numArray1));
+numArray.unshift(0, 10);
+console.log(numArray);
+numArray.reverse();
+console.log(numArray);
+numArray.pop();
+console.log(numArray);

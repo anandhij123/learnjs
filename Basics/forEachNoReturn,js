@@ -1,0 +1,12 @@
+let num = [1, 2, 3, 4, 5];
+num.forEach((item) => {
+  console.log(item);
+});
+let copynum = [];
+num.forEach((item) => copynum.push(item));
+
+console.log(copynum);
+
+let squarenum = [];
+num.forEach((item) => squarenum.push(item * item));
+Sconsole.log(squarenum);
